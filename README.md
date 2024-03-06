@@ -1,6 +1,6 @@
 # Synergy
 
-# Construction Project Document Management
+# DocuMate - File Automation Software using OCR
 
 # Features
 
