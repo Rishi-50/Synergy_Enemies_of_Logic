@@ -18,3 +18,6 @@ Data Extraction and Labeling:
 3.Extract key information from files, especially plans.
 Identify and label dynamic content such as drawing titles, numbers, revisions, and statuses.
 Extract static information like project name, number, address, client, and consultant across all sheets of a plan type.
+
+![image](https://github.com/Rishi-50/Synergy_Enemies_of_Logic/assets/114904283/7355d97c-0925-4953-8233-de3b337566bd)
+
