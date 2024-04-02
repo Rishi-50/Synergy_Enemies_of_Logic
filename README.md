@@ -21,3 +21,9 @@ Extract static information like project name, number, address, client, and consu
 
 ![image](https://github.com/Rishi-50/Synergy_Enemies_of_Logic/assets/114904283/7355d97c-0925-4953-8233-de3b337566bd)
 
+
+![image](https://github.com/Rishi-50/Synergy_Enemies_of_Logic/assets/114904283/aec6ee5f-d0cb-4d61-a968-c51b479a0b54)
+
+
+![image](https://github.com/Rishi-50/Synergy_Enemies_of_Logic/assets/114904283/86f9145f-b2c2-46eb-998c-a35523fd30b2)
+
